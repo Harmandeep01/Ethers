@@ -11,9 +11,9 @@ Ethers.js is a powerful JavaScript library for interacting with the Ethereum blo
 
 First, make sure you have Node.js installed. Then, you can install Ethers.js via npm:
 
-\`\`\`bash
-npm install ethers
-\`\`\`
+```bash
+    npm install ethers
+```
 
 ### 📝 Contents
 
